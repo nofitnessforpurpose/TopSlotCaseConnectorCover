@@ -20,7 +20,6 @@ A 3D Model file of a PSION Organiser II (all family) Top Slot case connector cov
 A version with grip lines and a front panel label recess, also a smooth variant are provided.  
 
 <br>
-<br>
 
 The default repository format is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. <br>  
 <br>  
