@@ -1,7 +1,9 @@
 # Top Slot Case Connector Cover - Pre Release
 Organiser II - Top Slot Case Connector Cover
 
-A 3D Model file of a PSION Organiser II (all family) Top Slot case connector cover to protect the connector. For Top Slot Power supply adaptors this permits them to be readily stored with reduced risk of damage or contamination of the the connector. Note - All dimensions OK, though does not currently include latest update. 
+A 3D Model file of a PSION Organiser II (all family) Top Slot case connector cover to protect the connector. For Top Slot Power supply adaptors this permits them to be readily stored with reduced risk of damage or contamination of the the connector.  
+
+Note - All dimensions OK, though does not currently include latest update. 
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
